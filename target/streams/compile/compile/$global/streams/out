@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/lab5/app/models/shopping/Basket.java:82:1: bad operand types for binary operator '+'[0m
+[0m[[0m[31merror[0m] [0m[0m  first type:  models.products.Product[0m
+[0m[[0m[31merror[0m] [0m[0m  second type: int[0m
+[0m[[0m[31merror[0m] [0m[0m            i.getProduct().setStock(i.getProduct() + 1);[0m
